@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cool-react/static/css/main.43963278.css",
+    "main.css": "/cool-react/static/css/main.16b8c7ef.css",
     "main.js": "/cool-react/static/js/main.dd24f487.js",
     "static/js/787.9a24866f.chunk.js": "/cool-react/static/js/787.9a24866f.chunk.js",
     "static/media/fa-solid-900.ttf": "/cool-react/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/cool-react/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/cool-react/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/cool-react/index.html",
-    "main.43963278.css.map": "/cool-react/static/css/main.43963278.css.map",
+    "main.16b8c7ef.css.map": "/cool-react/static/css/main.16b8c7ef.css.map",
     "main.dd24f487.js.map": "/cool-react/static/js/main.dd24f487.js.map",
     "787.9a24866f.chunk.js.map": "/cool-react/static/js/787.9a24866f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43963278.css",
+    "static/css/main.16b8c7ef.css",
     "static/js/main.dd24f487.js"
   ]
 }
