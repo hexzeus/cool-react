@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cool-react/static/css/main.7d223001.css",
+    "main.css": "/cool-react/static/css/main.dd94323a.css",
     "main.js": "/cool-react/static/js/main.3915278a.js",
     "static/js/787.9a24866f.chunk.js": "/cool-react/static/js/787.9a24866f.chunk.js",
     "index.html": "/cool-react/index.html",
-    "main.7d223001.css.map": "/cool-react/static/css/main.7d223001.css.map",
+    "main.dd94323a.css.map": "/cool-react/static/css/main.dd94323a.css.map",
     "main.3915278a.js.map": "/cool-react/static/js/main.3915278a.js.map",
     "787.9a24866f.chunk.js.map": "/cool-react/static/js/787.9a24866f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d223001.css",
+    "static/css/main.dd94323a.css",
     "static/js/main.3915278a.js"
   ]
 }
